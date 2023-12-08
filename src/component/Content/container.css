@@ -1,0 +1,77 @@
+.container{
+    background:rgb(51, 48, 48);
+   margin-top: 45px;
+   height: 250px;
+   margin-left: 80px;
+   margin-right: 80px;
+   border-radius: 10px;
+   display: flex;
+   position: relative;
+}
+.left1{
+    margin-left: 10%;
+    margin-top: 2%;
+    background:rgb(51, 48, 48);
+
+}
+.left1 button{
+    height: 15%;
+    width: 60%;
+    background: rgb(46, 46, 44);
+    border-radius: 8px;
+}
+.left1 img{
+    margin-top: 5%;
+    height: 60%;
+    width: 16rem;
+    border-radius: 10%;
+}
+.left1 p{
+    background:rgb(51, 48, 48);
+    margin-bottom: 2%;
+
+}
+.mid{
+    margin-left: 25px;
+    background:rgb(51, 48, 48);
+    margin-top: 3%;
+    padding: 10px;
+}
+.mid p{
+    
+    background:rgb(51, 48, 48);
+   font-size: 15px;
+    
+}
+.spn-icon{
+    background:rgb(51, 48, 48);
+    margin-top: 3px;
+}
+.righ1{
+    margin-left:200px ;
+    background:rgb(51, 48, 48);
+    /* padding: 10px; */
+    
+}
+.con{
+    background: rgb(25, 23, 23);
+    height: 10rem;
+    width: 25rem;
+    text-align: center;
+    border-radius: 25px;
+}
+.con p{
+    background: rgb(25, 23, 23);
+    border-radius: 25%;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 20px;
+    
+}
+.con button{
+    height: 2.5rem;
+    margin-bottom: 35px;
+    width: 5rem;
+    border-radius: 35px;
+    cursor: pointer;
+}
